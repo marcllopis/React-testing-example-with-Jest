@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`How to test a component:
+ Counter: is mounted properly 1`] = `
+<div>
+  <h1>
+    This is the title
+  </h1>
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -
+  </button>
+</div>
+`;
+
+exports[`How to test a component:
+ Counter: shallow renders properly 1`] = `
+<div>
+  <h1>
+    This is the title
+  </h1>
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -
+  </button>
+</div>
+`;
